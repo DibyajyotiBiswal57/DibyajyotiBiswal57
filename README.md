@@ -8,6 +8,26 @@
 - ⚡ Fun fact: I am a person. Wowwwww!!! That was epic.
 - 💻 My W3Profile: https://www.w3profile.com/Dibyajyoti
 
+# Languages I know
+
+- HTML(60%)
+- CSS(40%)
+- JAVA(4%)
+- Python(5%)
+- Excel(80%)
+- Git(90%)
+
+# Operating Systems I have used 
+
+- Windows 95(VM)
+- Windows 98(VM)
+- Windows XP(5 years)
+- Windows 7(VM)
+- Windows 10(8 years)
+- Windows 11(ongoing)
+- Garuda Linux(ongoing)
+- Parrot Linux(Daily VM)
+
 <!---
 DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -12,9 +12,10 @@
 
 - HTML(60%)
 - CSS(40%)
-- JAVA(4%)
+- JAVA(25%)
 - Python(5%)
-- Excel(80%)
+- Rust(2%)
+- Go(2%)
 - Git(90%)
 
 # Operating Systems I have used 

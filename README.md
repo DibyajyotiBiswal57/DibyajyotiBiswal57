@@ -17,6 +17,7 @@
 - Rust(2%)
 - Go(2%)
 - Git(90%)
+- Haskell(1%)
 
 # Operating Systems I have used 
 

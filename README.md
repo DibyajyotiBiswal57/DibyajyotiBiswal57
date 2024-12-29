@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Dibyajyoti!
 - 👀 I’m interested in Java, QBasic, HTML, Excel, and Python.
 - 🌱 I’m learning Java, HTML, and Python.
-- 📫 You can mail me at bisdib@yahoo.com
+- 📫 You can mail me at dibbispersonal@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a person. Wowwwww!!! That was epic.
 - 💻 My W3Profile: https://www.w3profile.com/Dibyajyoti

@@ -10,26 +10,26 @@
 
 # Languages I know
 
-    - HTML(60%)
-    - CSS(40%)
-    - JAVA(25%)
-    - Python(5%)
-    - Rust(2%)
-    - Go(2%)
-    - Git(90%)
-    - Haskell(1%)
-    - C++(2%)
+    HTML(60%)
+    CSS(40%)
+    JAVA(25%)
+    Python(5%)
+    Rust(2%)
+    Go(2%)
+    Git(90%)
+    Haskell(1%)
+    C++(2%)
 
 # Operating Systems I have used 
     
-    - Windows 95(VM)
-    - Windows 98(VM)
-    - Windows XP(5 years)
-    - Windows 7(VM)
-    - Windows 10(8 years)
-    - Windows 11(ongoing)
-    - Garuda Linux(ongoing)
-    - Parrot Linux(Daily VM)
+    Windows 95(VM)
+    Windows 98(VM)
+    Windows XP(5 years)
+    Windows 7(VM)
+    Windows 10(8 years)
+    Windows 11(ongoing)
+    Garuda Linux(ongoing)
+    Parrot Linux(Daily VM)
 
 <!---
 DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

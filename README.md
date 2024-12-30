@@ -10,15 +10,15 @@
 
 # Languages I know
 
-- HTML(60%)
-- CSS(40%)
-- JAVA(25%)
-- Python(5%)
-- Rust(2%)
-- Go(2%)
-- Git(90%)
-- Haskell(1%)
-- C++ (2%)
+    - HTML(60%)
+    - CSS(40%)
+    - JAVA(25%)
+    - Python(5%)
+    - Rust(2%)
+    - Go(2%)
+    - Git(90%)
+    - Haskell(1%)
+    - C++ (2%)
 
 # Operating Systems I have used 
 

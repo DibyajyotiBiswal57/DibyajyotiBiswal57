@@ -18,7 +18,7 @@
     - Go(2%)
     - Git(90%)
     - Haskell(1%)
-    - C++ (2%)
+    - C++(2%)
 
 # Operating Systems I have used 
 

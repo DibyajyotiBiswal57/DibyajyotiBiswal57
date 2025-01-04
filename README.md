@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am a person. Wowwwww!!! That was epic.
 - 💻 My W3Profile: https://www.w3profile.com/Dibyajyoti
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Languages I know
@@ -37,7 +37,7 @@
 
 ## The questions I make programs on -
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DibyajyotiBiswal57&repo=Programs-list&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

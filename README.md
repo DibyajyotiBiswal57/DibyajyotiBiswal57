@@ -23,7 +23,7 @@
     C++(2%)
     Haskell(1%)
     
-(https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&show_icons=true&locale=en)
+[(https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&show_icons=true&locale=en)]
 
 # Operating Systems I have used 
     

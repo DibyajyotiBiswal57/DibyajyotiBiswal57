@@ -35,9 +35,7 @@
     Garuda Linux(ongoing)
     Parrot Linux(Daily VM)
 
-## The questions I make programs on -
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DibyajyotiBiswal57&repo=programs-list&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

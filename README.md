@@ -13,15 +13,15 @@
 
 # Languages I know
 
+    QuickBasic(80%)
     HTML(60%)
     CSS(40%)
     JAVA(25%)
     Python(5%)
     Rust(2%)
     Go(2%)
-    Git(90%)
-    Haskell(1%)
     C++(2%)
+    Haskell(1%)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Operating Systems I have used 

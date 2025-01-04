@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a person. Wowwwww!!! That was epic.
 - 💻 My W3Profile: https://www.w3profile.com/Dibyajyoti
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Languages I know
 
@@ -20,7 +23,6 @@
     Haskell(1%)
     C++(2%)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Operating Systems I have used 
     

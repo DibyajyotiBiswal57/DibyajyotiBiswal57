@@ -37,7 +37,7 @@
 
 ## The questions I make programs on -
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DibyajyotiBiswal57&repo=Programs-list&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DibyajyotiBiswal57&repo=Programs-list&theme=transparent&show_icons=true)]([https://github.com/DibyajyotiBiswal57/Programs-list])
 
 <!---
 DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

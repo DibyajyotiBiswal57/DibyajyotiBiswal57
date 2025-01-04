@@ -19,6 +19,7 @@
     Git(90%)
     Haskell(1%)
     C++(2%)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57)](https://github.com/anuraghazra/github-readme-stats)
 
 # Operating Systems I have used 
     

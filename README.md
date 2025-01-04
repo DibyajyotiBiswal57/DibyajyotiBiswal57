@@ -22,7 +22,8 @@
     Go(2%)
     C++(2%)
     Haskell(1%)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+(https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&show_icons=true&locale=en)
 
 # Operating Systems I have used 
     

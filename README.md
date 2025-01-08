@@ -21,6 +21,8 @@
     Rust(2%)
     Go(2%)
     C++(2%)
+    C(1%)
+    C#(1%)
     Haskell(1%)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

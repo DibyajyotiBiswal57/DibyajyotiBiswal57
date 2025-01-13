@@ -1,48 +1,39 @@
-# Hey Guys 
+<h1 align="center">Hi 👋, I'm Dibyajyoti Biswal</h1>
+<h3 align="center">A student from India who does coding for recreation.</h3>
 
-- 👋 Hi, I’m Dibyajyoti!
-- 👀 I’m interested in Java, QBasic, HTML, Excel, and Python.
-- 🌱 I’m learning Java, HTML, and Python.
-- 📫 You can mail me at dibbispersonal@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a person. Wowwwww!!! That was epic.
-- 💻 My W3Profile: https://www.w3profile.com/Dibyajyoti
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyotibiswal57&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyotibiswal57" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57" alt="dibyajyotibiswal57" /></a> </p>
 
-# Languages I know
+<p align="left"> <a href="https://twitter.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?logo=twitter&style=for-the-badge" alt="coder99957" /></a> </p>
 
-    QuickBasic(80%)
-    HTML(60%)
-    CSS(40%)
-    JAVA(25%)
-    Python(5%)
-    Rust(2%)
-    Go(2%)
-    C++(2%)
-    C(1%)
-    C#(1%)
-    Haskell(1%)
+- 🔭 I’m currently making [Rust programs](https://github.com/DibyajyotiBiswal57/Rust-programs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiBiswal57&theme=transparent&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- and [Python](https://github.com/DibyajyotiBiswal57/Python-programs)
 
-    
+- and [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs)
 
-# Operating Systems I have used 
-    
-    Windows 95(VM)
-    Windows 98(VM)
-    Windows XP(5 years)
-    Windows 7(VM)
-    Windows 10(8 years)
-    Windows 11(ongoing)
-    Garuda Linux(ongoing)
-    Parrot Linux(Daily VM)
+- 🌱 I’m currently learning **Java, Python, Rust, C, C++, C# and Haskell**
 
+- 👨‍💻 All of my projects are available at [https://github.com/DibyajyotiBiswal57?tab=repositories](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
+- 💬 Ask me about **QBasic and Physics**
 
-<!---
-DibyajyotiBiswal57/DibyajyotiBiswal57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **dibbipersonal@gmail.com**
+
+- ⚡ Fun fact **I am a person. Wow!? 🤯😮**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>
+<a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder99957" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact" alt="dibyajyotibiswal57" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en" alt="dibyajyotibiswal57" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyotibiswal57&" alt="dibyajyotibiswal57" /></p>

@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57" alt="dibyajyotibiswal57" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyotibiswal57&" alt="dibyajyotibiswal57" /></p>
+
+
 <p align="left"> <a href="https://twitter.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?logo=twitter&style=for-the-badge" alt="coder99957" /></a> </p>
 
 - 🔭 I’m currently making [Rust programs](https://github.com/DibyajyotiBiswal57/Rust-programs) and [Python](https://github.com/DibyajyotiBiswal57/Python-programs) and [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs)

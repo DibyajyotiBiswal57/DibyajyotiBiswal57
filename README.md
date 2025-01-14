@@ -53,6 +53,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&theme=ambient_gradient" alt="dibyajyotibiswal57" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&theme=transparent" alt="dibyajyotibiswal57" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient" alt="dibyajyotibiswal57" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="dibyajyotibiswal57" /></p>

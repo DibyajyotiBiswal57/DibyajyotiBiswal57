@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **QBasic and Physics**
 
-- 📫 How to reach me **dibbipersonal@gmail.com**
+- 📫 Reach me at **dibbipersonal@gmail.com** or at my socials
 
 - ⚡ Fun fact **I am a person. Wow!? 🤯😮**
 

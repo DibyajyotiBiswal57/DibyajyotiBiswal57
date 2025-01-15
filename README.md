@@ -53,7 +53,8 @@
 
 <h3> Operating Systems used - </h3>
 
-<a href="https://garudalinux.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/2048px-Garuda-blue-sgs.svg.png" alt="sass" width="40" height="40"/> </a>
+<a href="https://garudalinux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/garuda.png" alt="garuda" width="40" height="40"/> </a>
+<a href="https://parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/parrotos.png" alt="parrotos" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&theme=transparent" alt="dibyajyotibiswal57" /></p>
 

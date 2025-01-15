@@ -53,6 +53,9 @@
 
 <h3> Operating Systems used - </h3>
 
+<a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windowsxp.png" alt="winxp" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windows10.png" alt="win10" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Windows_11" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windows11.jpg" alt="win11" width="40" height="40"/> </a>
 <a href="https://garudalinux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/garuda.png" alt="garuda" width="40" height="40"/> </a>
 <a href="https://parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/parrotos.png" alt="parrotos" width="40" height="40"/> </a>
 

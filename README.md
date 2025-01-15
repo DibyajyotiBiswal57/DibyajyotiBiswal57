@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?logo=twitter&style=for-the-badge" alt="coder99957" /></a> </p>
 
-- 🔭 I’m currently making [Rust programs](https://github.com/DibyajyotiBiswal57/Rust-programs) and [Python](https://github.com/DibyajyotiBiswal57/Python-programs) and [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs)
+- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs). [C++](https://github.com/DibyajyotiBiswal57/Cpluplus-programs) and [Java programs](https://github.com/DibyajyotiBiswal57/Java-programs)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DibyajyotiBiswal57?tab=repositories](https://github.com/DibyajyotiBiswal57?tab=repositories)

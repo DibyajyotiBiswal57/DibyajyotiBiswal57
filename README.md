@@ -73,10 +73,4 @@
 
 <h3 align="left"> Operating Systems used - </h3>
 
-<a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windowsxp.png" alt="winxp" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windows10.png" alt="win10" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Windows_11" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/windows11.jpg" alt="win11" width="40" height="40"/> </a>
-<a href="https://garudalinux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/garuda.png" alt="garuda" width="40" height="40"/> </a>
-<a href="https://parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/parrotos.png" alt="parrotos" width="40" height="40"/> </a>
-
-
+<p align="left"> <a href="https:/archlinux.org" target="blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <a href="https://www.apple.com" target="blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <a href="https://www.linux.org" target="blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <a href="https://tails.net" target="blank"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/></p>

@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57" alt="dibyajyotibiswal57" /></a> </p>
 
-<p align="left"> <a href="https://x.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?style=social&label=Follow%20me%20on%20X%2FTwitter
-" alt="twitter" /></a> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
+<p align="left"> <a href="https://x.com/coder99957" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/coder99957?style=for-the-badge&label=Follow%20me%20on%20X%2FTwitter">
+</a> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
+
 
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs). [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) and [Java programs](https://github.com/DibyajyotiBiswal57/Java-programs)

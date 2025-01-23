@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I am a person. Wow!? 🤯😮**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient" alt="dibyajyotibiswal57" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="dibyajyotibiswal57" /></p>
 
 
 <h3 align="left">Connect with me:</h3>

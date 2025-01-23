@@ -13,7 +13,7 @@
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs). [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) and [Java programs](https://github.com/DibyajyotiBiswal57/Java-programs)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/DibyajyotiBiswal57?tab=repositories](https://github.com/DibyajyotiBiswal57?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
 - 💬 Ask me about **QBasic and Physics**
 

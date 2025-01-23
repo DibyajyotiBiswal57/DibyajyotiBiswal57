@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57" alt="dibyajyotibiswal57" /></a> </p>
 
-<p align="left"> <a href="https://x.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?logo=twitter&style=for-the-badge" alt="coder99957" /></a> </p>
+<p align="left"> <a href="https://x.com/coder99957" target="blank"><img src="https://img.shields.io/twitter/follow/coder99957?logo=twitter&style=for-the-badge" alt="coder99957" /></a> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&color=cyan" </p>
+
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs). [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) and [Java programs](https://github.com/DibyajyotiBiswal57/Java-programs)
 

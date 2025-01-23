@@ -22,6 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&title_color=cyan&icon_color=2234AE&text_color=D3D3D3&bg_color=45,000000,130F40&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="dibyajyotibiswal57" /></p>
 
+<p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

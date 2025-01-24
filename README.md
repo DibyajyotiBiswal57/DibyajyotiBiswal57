@@ -1,6 +1,9 @@
-a {
+<style>
+  a {
   text-decoration: none; 
 }
+  </style>
+
 
 
 <h1 align="center">Hi 👋, I'm Dibyajyoti Biswal</h1>

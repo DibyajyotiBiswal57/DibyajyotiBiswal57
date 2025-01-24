@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Calculator</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
 
-
+<body>
 <h1 align="center">Hi 👋, I'm Dibyajyoti Biswal</h1>
 <h3 align="center">A student from India who does coding for recreation.</h3>
 
@@ -85,3 +84,6 @@
 <h3 align="left"> Operating Systems used - </h3>
 
 <p align="left"> <a href="https:/archlinux.org" target="blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <a href="https://www.apple.com" target="blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <a href="https://www.linux.org" target="blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <a href="https://tails.net" target="blank"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/></p>
+
+</body>
+</html>

@@ -9,8 +9,8 @@
 
 
 <body>
-<h1 align="center">Hi 👋, I'm Dibyajyoti Biswal</h1>
-<h3 align="center">A student from India who does coding for recreation.</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+student+from+India+who+does+coding+for+recreation." alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyotibiswal57&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyotibiswal57" /> </p>
 
@@ -61,7 +61,7 @@
 <br>
 
 
-<h3 align="left">Languages I'm learning-</h3>
+<h3 align="left">Languages I'm learning:</h3>
 <ol style="list-style-type: none; counter-reset: myCounter;"> 
     <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 2% </li>
     <li><a href="https://qb64.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Qb64.png" alt="arduino" width="40" height="40"/> </a> 80% </li>

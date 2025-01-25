@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyotibiswal57&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyotibiswal57" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57&theme=gitdimmed" alt="dibyajyotibiswal57" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57&&title=-PullRequest,-Reviews&theme=gitdimmed" alt="dibyajyotibiswal57" /></a> </p>
 
 <p align="left"> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
 

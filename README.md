@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs), [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) and [Java programs](https://github.com/DibyajyotiBiswal57/Java-programs)
+- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs).
 
 - 🌱 I’m currently learning **Java, Python, Rust, Haskell, C, C++ and C#**
 

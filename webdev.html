@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Dev.-Upload</title>
+    <style>
+        body {
+            background-color: #333;
+
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        nav {
+
+            font-family: "Ubuntu", serif;
+            border-bottom: 2px solid white;
+            border-top: 2px solid white;
+        }
+
+        nav li {
+
+            font-size: 80px;
+            color: #fff;
+            text-align: center;
+            -webkit-animation: glow 1s ease-in-out infinite alternate;
+            -moz-animation: glow 1s ease-in-out infinite alternate;
+            animation: glow 1s ease-in-out infinite alternate;
+
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px black, 0 0 40px black, 0 0 50px black, 0 0 60px black, 0 0 70px black;
+            }
+
+            to {
+                text-shadow: 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px blue, 0 0 50px blue, 0 0 60px blue, 0 0 70px blue, 0 0 80px blue;
+            }
+        }
+
+        nav ul {
+            display: flex;
+            list-style-type: none;
+            color: white;
+            height: 65px;
+            background-color: black;
+            align-items: center;
+
+
+        }
+
+        nav ul li {
+            padding: 0 12px;
+        }
+
+        nav ul a {
+            padding: 0 12px;
+            text-decoration: none;
+            color: white;
+        }
+
+
+        nav ul a:hover {
+
+            background-color: #333;
+            border-radius: 50px;
+        }
+
+        
+
+        .logo {
+            display: flex;
+            align-items: center;
+            font-weight: bolder;
+            font-size: 1.3rem;
+        }
+        .searchBar {
+            background-color: #333;
+            display: flex;
+            float: right;
+            border-radius: 12px;
+            padding: 5px 2px;
+            justify-content: space-around;
+
+        }
+
+        input {
+            border: none;
+            outline: none;
+            background: none;
+        }
+
+
+    .upload-section{
+        font-family: "Ubuntu", serif;
+       padding: 5px;
+       
+    }
+    
+    
+    </style>
+</head>
+<body>
+    <nav>
+        <ul class="navbar">
+
+            <li class="logo">&lt;/&gt;Git Dib</li>
+            <a href="home.html">Home</a>
+            <a href="webdev.html" onclick="showSection('webdev')">Web Dev.</a>
+            <a href="#" onclick="showSection('cpp')">C++</a>
+            <a href="#" onclick="showSection('c')">C</a>
+            <a href="#" onclick="showSection('cs')">C#</a>
+            <a href="#" onclick="showSection('java')">Java</a>
+            <a href="#" onclick="showSection('python')">Python</a>
+            <a href="#" onclick="showSection('hs')">Haskell</a>
+            <a href="#" onclick="showSection('go')">GoLang</a>
+            <a href="#" onclick="showSection('rs')">Rust</a>
+            <a href="#" onclick="showSection('bas')">QBasic</a>
+            <input placeholder="Search.." class="searchBar" name="searchBar" type="text">
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+
+    </nav>
+
+    <div class="content">
+    <div id="webdev" class="upload-section">
+        <h3>Upload Web Dev. File</h3>
+        <input id="inp" type="file" accept=".html, .css, .js">
+        
+    </div>
+</div>
+</body>
+</html>

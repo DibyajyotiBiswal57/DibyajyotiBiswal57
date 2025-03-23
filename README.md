@@ -48,6 +48,11 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DibyajyotiBiswal57&theme=transparent" alt="GitHub Streak" /></a>
 
 
+<h3> Random dev quote </h3>
+
+<p> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" /> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>

@@ -43,7 +43,7 @@
 [//]: # (end-wakatime-stats)
 
 
-<p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=69" /> </p>
+<p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=50" /> </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DibyajyotiBiswal57&theme=transparent" alt="GitHub Streak" /></a>
 

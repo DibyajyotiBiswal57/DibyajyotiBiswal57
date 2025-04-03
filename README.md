@@ -45,7 +45,7 @@
 
 <p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=50" /> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DibyajyotiBiswal57&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DibyajyotiBiswal57&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 
 <h3> Random dev quote </h3>

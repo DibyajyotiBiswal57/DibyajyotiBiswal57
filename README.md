@@ -10,7 +10,7 @@
 
 <body>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+student+from+India+who+does+coding+for+recreation." alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=Someone+who+struggles+with+studies." alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyotibiswal57&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyotibiswal57" /> </p>
 

@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
-- 💬 Ask me about **QBasic and Physics**
+- 💬 Ask me about **Mathematics and Physics**
 
 - 📫 Reach me at **dibbipersonal@gmail.com** or at my socials
 

@@ -73,15 +73,13 @@
 
 <h3 align="left">Languages I'm learning:</h3>
 <ol style="list-style-type: none; counter-reset: myCounter;"> 
-    <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c" width="40" height="40"/> </a>  2%  </li>
-    <li><a href="https://qb64.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Qb64.png" alt="qbasic" width="40" height="40"/> </a>  80%  </li>
-    <li><a href="[https://cplusplus.com]" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus" width="40" height="40"/> </a>  2%  </li>
-    <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp" width="40" height="40"/> </a>  2%  </li>
-    <li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git" width="40" height="40"/> </a>  90%  </li>
-    <li><a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>  2%  </li>
-    <li><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="java" width="40" height="40"/> </a>  10%  </li>
-    <li><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="kotlin" width="40" height="40"/> </a>  10%  </li>
-    <li><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="python" width="40" height="40"/> </a>  20%  </li>
+    <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/> </a>  2%  </li>
+    <li><a href="[https://cplusplus.com]" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/> </a>  2%  </li>
+    <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp"/> </a>  2%  </li>
+    <li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/> </a>  90%  </li>
+    <li><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="java"/> </a>  10%  </li>
+    <li><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="kotlin"/> </a>  10%  </li>
+    <li><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="python"/> </a>  20%  </li>
     <li><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>  4%  </li> 
     <li><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  40%  </li>
     <li><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  10% </li>

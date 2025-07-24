@@ -20,6 +20,7 @@
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
 
 
 
@@ -44,12 +45,6 @@
 
 
 <p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=50" /> </p>
-
-
-<h3> Random dev quote </h3>
-
-<p> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

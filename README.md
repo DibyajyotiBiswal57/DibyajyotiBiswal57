@@ -19,8 +19,7 @@
 <p align="left"> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
+<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue&hideborder" alt="Jokes Card" /> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" />
 
 
 

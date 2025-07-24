@@ -73,17 +73,17 @@
 
 <h3 align="left">Languages I'm learning:</h3>
 <ol style="list-style-type: none; counter-reset: myCounter;"> 
-    <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/> </a>  2%  </li>
-    <li><a href="[https://cplusplus.com]" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/> </a>  2%  </li>
-    <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp"/> </a>  2%  </li>
-    <li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/> </a>  90%  </li>
-    <li><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="java"/> </a>  10%  </li>
-    <li><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="kotlin"/> </a>  10%  </li>
-    <li><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="python"/> </a>  20%  </li>
-    <li><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="bootstrap"/> </a>  4%  </li> 
-    <li><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="html5"/> </a>  40%  </li>
-    <li><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="css3"/> </a>  10% </li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="javascript" </a>  2%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/>  2%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/>  2%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp"/>  2%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/>  90%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="java"/>  10%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="kotlin"/>  10%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="python"/>  20%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="bootstrap"/>  4%  </li> 
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="html5"/>  40%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="css3"/>  10% </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="javascript">  2%  </li>
     <li><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="php"/> </a>  1%  </li>
     <li><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="sass"/> </a>  20%  </li> </p>
 </ol>

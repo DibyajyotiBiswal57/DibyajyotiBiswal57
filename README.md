@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs).
 
-- 🌱 I’m currently learning **Python, Rust, Haskell, C, C++ and C#**
+- 🌱 I’m currently learning **Python, Rust, C, C++ and C#**
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
@@ -84,8 +84,8 @@
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="html5"/>  40%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="css3"/>  10% </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="javascript">  2%  </li>
-    <li><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="php"/> </a>  1%  </li>
-    <li><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="sass"/> </a>  20%  </li> </p>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="php"/>  1%  </li>
+    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="sass"/>  20%  </li> </p>
 </ol>
 
 

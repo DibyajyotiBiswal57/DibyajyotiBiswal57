@@ -11,13 +11,10 @@
 <body>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+student+who+struggles+with+studies." alt="Typing SVG" /></a></h3>
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/DibyajyotiBiswal57"/>  
-    </div>
 
+<p> <img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" /> </p>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57&&title=-PullRequest,-Reviews&theme=gitdimmed" alt="dibyajyotibiswal57" /></a> </p>
-<img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" />
 
 <p align="left"> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
 

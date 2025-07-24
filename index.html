@@ -1,14 +1,180 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="kalilinux.png">
+    <title>Git Dib-Home</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+        body {
+            background-color: #333;
+
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        nav {
+
+            font-family: "Ubuntu", serif;
+            border-bottom: 2px solid white;
+            border-top: 2px solid white;
+        }
+
+        nav li {
+
+            font-size: 80px;
+            color: #fff;
+            text-align: center;
+            -webkit-animation: glow 1s ease-in-out infinite alternate;
+            -moz-animation: glow 1s ease-in-out infinite alternate;
+            animation: glow 1s ease-in-out infinite alternate;
+
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px black, 0 0 40px black, 0 0 50px black, 0 0 60px black, 0 0 70px black;
+            }
+
+            to {
+                text-shadow: 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px rgb(3, 93, 211), 0 0 50px rgb(3, 93, 211), 0 0 60px rgb(3, 93, 211), 0 0 70px rgb(3, 93, 211), 0 0 80px rgb(3, 93, 211);
+            }
+        }
+
+        nav ul {
+            display: flex;
+            list-style-type: none;
+            color: white;
+            height: 65px;
+            background-color: black;
+            align-items: center;
+
+
+        }
+
+        nav ul li {
+            padding: 0 12px;
+        }
+
+        nav ul a {
+            padding: 0 12px;
+            text-decoration: none;
+            color: white;
+        }
+
+
+        nav ul a:hover {
+
+            background-color: #333;
+            border-radius: 50px;
+        }
+
+        .logo img {
+            width: 89px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            font-weight: bolder;
+            font-size: 1.3rem;
+        }
+
+        .searchBar {
+            background-color: #333;
+            display: flex;
+            float: right;
+            border-radius: 12px;
+            padding: 5px 2px;
+            justify-content: space-around;
+
+        }
+
+        input {
+            border: none;
+            outline: none;
+            background: none;
+        }
+
+        .container {
+            min-height: 75vh;
+            background-color: black;
+            color: white;
+            font-family: "Ubuntu", serif;
+            display: flex;
+            margin: 23px auto;
+            width: 70%;
+            border-radius: 12px;
+            padding: 25px;
+            background-image: url(pixelcut-export.png);
+            background-size: 100% 100%;
+
+        }
+
+        .lt {
+            text-decoration: none;
+            color: white;
+        }
+
+        .cw {
+            text-decoration: none;
+            color: white;
+        }
+
+        .content {
+            font-family: 'Ubuntu', serif;
+        }
+        
+    </style>
 </head>
 
-
 <body>
+     
+    <nav id="home">
+        <ul class="navbar">
+
+            <li class="logo">&lt;/&gt;Git Dib</li>
+            <a href="home.html">Home</a>
+            <a href="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/" onclick="showSection('webdev')">Web Dev.</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Cplusplus-programs/" onclick="showSection('cpp')">C++</a>
+            <a href="https://github.com/DibyajyotiBiswal57/C-programs" onclick="showSection('c')">C</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Csharp-programs" onclick="showSection('cs')">C#</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Java-programs" onclick="showSection('java')">Java</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Python-programs" onclick="showSection('python')">Python</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Haskell-programs" onclick="showSection('hs')">Haskell</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Go-programs" onclick="showSection('go')">GoLang</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Rust-programs" onclick="showSection('rs')">Rust</a>
+            <a href="https://github.com/DibyajyotiBiswal57/Java-programs" onclick="showSection('bas')">QBasic</a>
+            <input placeholder="Search.." class="searchBar" name="searchBar" type="text">
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+
+    </nav>
+
+    <span class="content">
+        <h3>Select a category to upload your program</h3>
+        
+        <script>
+            function showSection(sectionId) {
+                let sections = document.querySelectorAll('.upload-section');
+                sections.forEach(section => section.style.display = 'none');
+                document.getElementById(sectionId).style.display = 'block';
+            }
+            
+        </script>
+
+        <div class="container">
+            <div>
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+student+who+struggles+with+studies." alt="Typing SVG" /></a></h3>
 
@@ -80,5 +246,8 @@
 <p align="left"> <a href="https:/archlinux.org" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg" /> <a href="https://www.apple.com" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" /> <a href="https://www.linux.org" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" /> <a href="https://tails.net" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg"/> </a> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp1.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg"/> <a href="https://www.kali.org" > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" /></a>
 </p>
 
+</div>
+        </div>
 </body>
+
 </html>

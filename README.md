@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) programs.
 
-- 🌱 I’m currently learning **Python, Rust, C, C++ and C#** 
+- 🌱 I’m currently learning **Python, Rust, C, C++ and C#**.
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories).
 
-- 💬 Ask me about **Mathematics and Physics**
+- 💬 Ask me about **Mathematics and Physics**.
 
 - 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 
@@ -45,8 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=cyan&icon_color=2234AE&text_color=D3D3D3&bg_color=61,000000,20057A" alt="dibyajyotibiswal57" /></p>
 
-<br>
-<br>
 <br>
 <br>
 <br>

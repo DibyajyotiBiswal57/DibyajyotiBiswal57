@@ -16,19 +16,19 @@
  
 <img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57&&title=-PullRequest,-Reviews&theme=gitdimmed" alt="dibyajyotibiswal57" /></a> <img src="https://readme-jokes.vercel.app/api?theme=gradientBlue&hideborder" alt="Jokes Card" /> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyotibiswal57&show_icons=true&locale=en&rank_icon=percentile&include_all_commits=true&title_color=cyan&icon_color=2234AE&text_color=D3D3D3&bg_color=60,000000,130F40&border=none&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="dibyajyotibiswal57stats" />
 
-- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs).
+- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) programs.
 
-- 🌱 I’m currently learning **Python, Rust, C, C++ and C#** programs.
+- 🌱 I’m currently learning **Python, Rust, C, C++ and C#** 
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
 - 💬 Ask me about **Mathematics and Physics**
 
-- 📫 Reach me at **dibbipersonal@gmail.com** or at my socials
+- 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 
 - ⚡ Fun fact **I am a person. Wow!? 🤯😮**
 
-- 👯‍♂️ My friends are [Aryaman](https://github.com/albert-hawkins-heisenberg), [Kshitij](https://github.com/UnderRatedCoder05) and [Diptansu](https://github.com/dsdoescreative)
+- 👯‍♂️ My friends are [Aryaman](https://github.com/albert-hawkins-heisenberg), [Kshitij](https://github.com/UnderRatedCoder05) and [Diptansu](https://github.com/dsdoescreative).
 
 
 <p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>

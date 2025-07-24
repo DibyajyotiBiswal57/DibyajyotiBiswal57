@@ -17,6 +17,7 @@
     </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyajyotibiswal57&&title=-PullRequest,-Reviews&theme=gitdimmed" alt="dibyajyotibiswal57" /></a> </p>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" />
 
 <p align="left"> <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img src="https://img.shields.io/github/followers/DibyajyotiBiswal57?style=for-the-badge&label=Followers%20on%20GitHub&labelColor=grey&color=cyan" alt="githubfollowers"/> </p>
 

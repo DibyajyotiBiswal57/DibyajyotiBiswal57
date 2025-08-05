@@ -60,7 +60,6 @@
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/>  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/>  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp"/>  2%  </li>
-    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/>  90%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="java"/>  10%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="kotlin"/>  10%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="python"/>  20%  </li>

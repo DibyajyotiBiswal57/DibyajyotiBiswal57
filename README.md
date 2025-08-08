@@ -69,7 +69,6 @@
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="javascript">  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="php"/>  1%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="sass"/>  20%  </li>
-    <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg" alt="rust"/>  3%  </li>
 </ol>
 
 

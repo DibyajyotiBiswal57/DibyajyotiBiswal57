@@ -14,7 +14,7 @@
 
 <p> <img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" /> </p>
  
-<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue&hideborder" alt="Jokes Card" /> <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" />
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" />
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) programs.
 

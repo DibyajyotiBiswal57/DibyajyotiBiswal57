@@ -42,7 +42,7 @@
 
 <h3 align="center">Languages I'm learning:</h3>
 <p align="center">
-<ol style="list-style-type: none; text-align: center; display: inline-block; counter-reset: myCounter;"> 
+<ol style="list-style-type: none; counter-reset: myCounter;"> 
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/>  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/>  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp"/>  2%  </li>

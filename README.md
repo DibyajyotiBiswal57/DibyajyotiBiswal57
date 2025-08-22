@@ -17,7 +17,7 @@
 
 <p> 🔭 I’m currently making <a href="https://github.com/DibyajyotiBiswal57/Python-programs">[Python]</a>, <a href="https://github.com/DibyajyotiBiswal57/Csharp-programs">[C#]</a>, <a href="https://github.com/DibyajyotiBiswal57/C-programs">[C]</a> and <a href="https://github.com/DibyajyotiBiswal57/Cplusplus-programs">[C++]</a> programs. </p>
 
-<p> 🌱 I’m currently learning <bold>Python</bold>, <bold>Rust</bold>, <bold>C</bold>, <bold>C++</bold> and <bold>C#</bold>. </p>
+<p> 🌱 I’m currently learning <bold>Python</bold>, <bold>C</bold>, <bold>C++</bold> and <bold>C#</bold>. </p>
 
 <p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
 
@@ -31,9 +31,8 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>
-<a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder99957" height="30" width="40" /></a>
+<p align="center">
+<a href="https://instagram.com/coder99957" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder99957" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

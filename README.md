@@ -15,13 +15,13 @@
  
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" /></p>
 
-- 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) programs.
+<p> 🔭 I’m currently making <a href="https://github.com/DibyajyotiBiswal57/Python-programs">[Python]</a>, <a href="https://github.com/DibyajyotiBiswal57/Csharp-programs">[C#]</a>, <a href="https://github.com/DibyajyotiBiswal57/C-programs">[C]</a> and <a href="https://github.com/DibyajyotiBiswal57/Cplusplus-programs">[C++]</a> programs. </p>
 
-- 🌱 I’m currently learning **Python, Rust, C, C++ and C#**.
+<p> 🌱 I’m currently learning <bold>Python</bold>, <bold>Rust</bold>, <bold>C</bold>, <bold>C++</bold> and <bold>C#</bold>. </p>
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories).
+<p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
 
-- 💬 Ask me about **Mathematics and Physics**.
+<p>💬 Ask me about <bold>Mathematics</bold> and <bold>Physics</bold>. </p>
 
 - 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 

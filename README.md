@@ -41,6 +41,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=cyan&icon_color=2234AE&text_color=D3D3D3&bg_color=61,000000,20057A" alt="dibyajyotibiswal57" /></p>
 
 <h3 align="center">Languages I'm learning:</h3>
+<p align="center">
 <ol style="list-style-type: none; counter-reset: myCounter;"> 
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c"/>  2%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cplusplus"/>  2%  </li>
@@ -55,7 +56,7 @@
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="php"/>  1%  </li>
     <li><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="sass"/>  20%  </li>
 </ol>
-
+</p>
 
 
 <h3 align="center"> Operating Systems used - </h3>

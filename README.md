@@ -12,9 +12,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+student+who+struggles+with+studies." alt="Typing SVG" /></a></h3>
 
-<p> <img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" /> </p>
+<p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=DibyajyotiBiswal57&data=followers,repositories,stars,commits&theme=darkmode" /> </p>
  
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" />
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" /></p>
 
 - 🔭 I’m currently making [Rust](https://github.com/DibyajyotiBiswal57/Rust-programs), [Python](https://github.com/DibyajyotiBiswal57/Python-programs), [C#](https://github.com/DibyajyotiBiswal57/Csharp-programs), [C](https://github.com/DibyajyotiBiswal57/C-programs) and [C++](https://github.com/DibyajyotiBiswal57/Cplusplus-programs) programs.
 
@@ -31,7 +31,7 @@
 - 👯‍♂️ My friends are [Aryaman](https://github.com/albert-hawkins-heisenberg), [Kshitij](https://github.com/UnderRatedCoder05) and [Diptansu](https://github.com/dsdoescreative).
 
 
-<p> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

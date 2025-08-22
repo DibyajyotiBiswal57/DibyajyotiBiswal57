@@ -21,13 +21,11 @@
 
 <p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
 
-<p>💬 Ask me about <bold>Mathematics</bold> and <bold>Physics</bold>. </p>
+<p> 💬 Ask me about <bold>Mathematics</bold> and <bold>Physics</bold>. </p>
 
-- 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
+📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 
-- ⚡ Fun fact **I am a person. Wow!? 🤯😮**
-
-- 👯‍♂️ My friends are [Aryaman](https://github.com/albert-hawkins-heisenberg), [Kshitij](https://github.com/UnderRatedCoder05) and [Diptansu](https://github.com/dsdoescreative).
+<p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
 
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>

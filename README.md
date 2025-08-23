@@ -25,7 +25,7 @@
 
 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 
-<p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
+<p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/MrA-100">Akshaj</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
 
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>

@@ -17,11 +17,9 @@
 
 <p> 🔭 I’m currently making <a href="https://github.com/DibyajyotiBiswal57/Python-programs">[Python]</a>, <a href="https://github.com/DibyajyotiBiswal57/Csharp-programs">[C#]</a>, <a href="https://github.com/DibyajyotiBiswal57/C-programs">[C]</a> and <a href="https://github.com/DibyajyotiBiswal57/Cplusplus-programs">[C++]</a> programs. </p>
 
-<p> 🌱 I’m currently learning <bold>Python</bold>, <bold>C</bold>, <bold>C++</bold> and <bold>C#</bold>. </p>
+<p> 🌱 I’m currently learning <bold>Python</bold> and <bold>Cyber Security</bold>. </p>
 
 <p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
-
-<p> 💬 Ask me about <bold>Mathematics</bold> and <bold>Physics</bold>. </p>
 
 📫 Reach me at **dibbipersonal@gmail.com** or at my socials.
 

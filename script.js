@@ -137,22 +137,49 @@ if (yearElement) {
 }
 
 // ============================================
-// Navigation Background on Scroll
+// Navigation Background on Scroll (Throttled)
 // ============================================
 let lastScroll = 0;
 const nav = document.querySelector('.nav');
+let ticking = false;
 
 window.addEventListener('scroll', () => {
-    const currentScroll = window.pageYOffset;
-    
-    // Add shadow on scroll
-    if (currentScroll > 50) {
-        nav.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
-    } else {
-        nav.style.boxShadow = '0 1px 3px rgba(0, 0, 0, 0.1)';
+    if (!ticking) {
+        window.requestAnimationFrame(() => {
+            const currentScroll = window.pageYOffset;
+            
+            // Add shadow on scroll
+            if (currentScroll > 50) {
+                nav.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
+            } else {
+                nav.style.boxShadow = '0 1px 3px rgba(0, 0, 0, 0.1)';
+            }
+            
+            lastScroll = currentScroll;
+            ticking = false;
+        });
+        ticking = true;
     }
-    
-    lastScroll = currentScroll;
+});
+
+// ============================================
+// Parallax effect for hero background (Throttled)
+// ============================================
+let parallaxTicking = false;
+
+window.addEventListener('scroll', () => {
+    if (!parallaxTicking) {
+        window.requestAnimationFrame(() => {
+            const heroBackground = document.querySelector('.hero-background');
+            if (heroBackground) {
+                const scrolled = window.pageYOffset;
+                const rate = scrolled * 0.5;
+                heroBackground.style.transform = `translate3d(0, ${rate}px, 0)`;
+            }
+            parallaxTicking = false;
+        });
+        parallaxTicking = true;
+    }
 });
 
 // ============================================
@@ -175,16 +202,12 @@ document.querySelectorAll('a[target="_blank"]').forEach(link => {
 // ============================================
 // Performance: Lazy Loading Enhancement
 // ============================================
-if ('loading' in HTMLImageElement.prototype) {
-    // Browser supports lazy loading
-    const images = document.querySelectorAll('img[loading="lazy"]');
-    images.forEach(img => {
-        img.src = img.src;
-    });
-} else {
+if (!('loading' in HTMLImageElement.prototype)) {
     // Fallback for browsers that don't support lazy loading
     const script = document.createElement('script');
     script.src = 'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js';
+    script.integrity = 'sha512-VfjIYRLqK6B8l7nHCF8fjLf3RQEPDhfzVH2mxNZgwYQ8l4J4m4wBqA0wW1zHmKoNmKqJVQrJ6CJMXP0eBn1g0g==';
+    script.crossOrigin = 'anonymous';
     document.body.appendChild(script);
 }
 
@@ -232,16 +255,15 @@ document.querySelectorAll('.btn').forEach(button => {
 });
 
 // ============================================
-// Parallax effect for hero background
+// Preload critical resources
 // ============================================
-window.addEventListener('scroll', () => {
-    const heroBackground = document.querySelector('.hero-background');
-    if (heroBackground) {
-        const scrolled = window.pageYOffset;
-        const rate = scrolled * 0.5;
-        heroBackground.style.transform = `translate3d(0, ${rate}px, 0)`;
-    }
-});
+function preloadImage(url) {
+    const img = new Image();
+    img.src = url;
+}
+
+// Preload GitHub avatar for favicon
+preloadImage('https://github.com/DibyajyotiBiswal57.png');
 
 // ============================================
 // Preload critical resources

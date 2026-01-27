@@ -3,69 +3,257 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <meta name="description" content="Dibyajyoti Biswal - A person who struggles with life. Learning Python, AI & ML, Cybersecurity, DSA, and more.">
+    <meta name="author" content="Dibyajyoti Biswal">
+    <meta property="og:title" content="Dibyajyoti Biswal - Developer Portfolio">
+    <meta property="og:description" content="A person who struggles with life. Exploring technology, programming, and life.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dibyajyotibiswal57.github.io/DibyajyotiBiswal57/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@coder99957">
+    
+    <title>Dibyajyoti Biswal - Developer Portfolio</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="https://github.com/DibyajyotiBiswal57.png" type="image/png">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav>
-        <img src="logo.png" alt="DB Logo">
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">DB</a>
+            <div class="nav-menu">
+                <a href="#about" class="nav-link">About</a>
+                <a href="#skills" class="nav-link">Skills</a>
+                <a href="#projects" class="nav-link">Projects</a>
+                <a href="#contact" class="nav-link">Contact</a>
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                    <svg class="sun-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="moon-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
     </nav>
-    <section class="hero">
-        <h1>Hello, I'm Dibyajyoti Biswal <span>👋</span></h1>
-        <div class="typing-container">Typing...</div>
-        <blockquote>"Inspiring Quote Here"</blockquote>
-        <button>Learn More</button>
-        <button>Contact Me</button>
-    </section>
-    <section id="about">
-        <div class="card">Learning</div>
-        <div class="card">Current Project</div>
-        <div class="card">My Projects</div>
-        <div class="card">My Friends</div>
-        <div class="card">Looking For</div>
-        <div class="card">Fun Fact</div>
-    </section>
-    <section id="skills">
-        <h2>Skills</h2>
-        <div class="skill-icons">[Skill Icons Here]</div>
-        <div class="operating-systems">[Operating Systems Here]</div>
-    </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="featured-project">
-            <h3>Featured Project</h3>
-            <p>Highlighted Project: <a href="https://dibyajyotibiswal57.github.io/programs/">Programs Website</a></p>
-            <p>Description: This website hosts all the programs I have made</p>
-            <p>Tags: Python, C/C++, Java, Algorithms, DSA</p>
-        </div>
-        <div class="github-statistics">
-            <h3>GitHub Statistics</h3>
-            [Language Stats Here]
-        </div>
-        <div class="contribution-graph">
-            <h3>Contribution Graph</h3>
-            [Graph Here]
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="wave">👋</span> Hi, I'm
+                </h1>
+                <h2 class="hero-name">Dibyajyoti Biswal</h2>
+                <div class="typing-container">
+                    <span id="typing-text" class="typing-text"></span>
+                    <span class="cursor">|</span>
+                </div>
+                <div class="hero-quote">
+                    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote" class="quote-img" loading="lazy">
+                </div>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary">View My Work</a>
+                    <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                </div>
+            </div>
         </div>
     </section>
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <ul>
-            <li><a href="mailto:your_email@example.com">Email</a></li>
-            <li><a href="https://github.com/DibyajyotiBiswal57">GitHub</a></li>
-            <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
-        </ul>
+
+    <!-- About Section -->
+    <section class="section about" id="about">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-grid">
+                <div class="about-card fade-in">
+                    <div class="card-icon">🌱</div>
+                    <h3>Currently Learning</h3>
+                    <p>Python, AI & ML, Cybersecurity, DSA, Java, Rust, Go, Haskell, C, C++, C#, Perl</p>
+                </div>
+                <div class="about-card fade-in">
+                    <div class="card-icon">🔭</div>
+                    <h3>Current Project</h3>
+                    <p>Building <a href="https://github.com/DibyajyotiBiswal57/programs" target="_blank" rel="noopener">programs</a> and exploring new technologies</p>
+                </div>
+                <div class="about-card fade-in">
+                    <div class="card-icon">👨‍💻</div>
+                    <h3>My Projects</h3>
+                    <p>All my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories" target="_blank" rel="noopener">GitHub</a></p>
+                </div>
+                <div class="about-card fade-in">
+                    <div class="card-icon">👯‍♂️</div>
+                    <h3>My Friends</h3>
+                    <p>
+                        <a href="https://github.com/UnderRatedCoder05" target="_blank" rel="noopener">Kshitij</a>, 
+                        <a href="https://github.com/MrA-100" target="_blank" rel="noopener">Akshaj</a>, 
+                        <a href="https://github.com/albert-hawkins-heisenberg" target="_blank" rel="noopener">Aryaman</a>, 
+                        <a href="https://github.com/dsdoescreative" target="_blank" rel="noopener">Diptansu</a>
+                    </p>
+                </div>
+                <div class="about-card fade-in">
+                    <div class="card-icon">🤝</div>
+                    <h3>Looking For</h3>
+                    <p>Help with living life</p>
+                </div>
+                <div class="about-card fade-in">
+                    <div class="card-icon">⚡</div>
+                    <h3>Fun Fact</h3>
+                    <p>I am not a fun person</p>
+                </div>
+            </div>
+        </div>
     </section>
-    <footer>
-        <p>&copy; 2026 Dibyajyoti Biswal. All rights reserved.</p>
-        <p>Your Tagline Here</p>
+
+    <!-- Skills Section -->
+    <section class="section skills" id="skills">
+        <div class="container">
+            <h2 class="section-title">Languages & Tools</h2>
+            <div class="skills-grid fade-in">
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=c" alt="C" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=cs" alt="C#" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=git" alt="Git" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=go" alt="Go" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" loading="lazy"></div>
+                <div class="skill-item"><img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=java" alt="Java" loading="lazy"></div>
+                <div class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" loading="lazy"></div>
+                <div class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" loading="lazy"></div>
+                <div class="skill-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=perl" alt="Perl" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=py" alt="Python" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" loading="lazy"></div>
+                <div class="skill-item"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" loading="lazy"></div>
+            </div>
+            
+            <h3 class="section-subtitle">Operating Systems</h3>
+            <div class="os-grid fade-in">
+                <a href="https://archlinux.org" target="_blank" rel="noopener"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg" alt="Arch Linux" loading="lazy"></a>
+                <a href="https://www.apple.com" target="_blank" rel="noopener"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS" loading="lazy"></a>
+                <a href="https://www.linux.org" target="_blank" rel="noopener"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" loading="lazy"></a>
+                <a href="https://tails.net" target="_blank" rel="noopener"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg" alt="Tails OS" loading="lazy"></a>
+                <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="Windows" loading="lazy">
+                <a href="https://www.kali.org" target="_blank" rel="noopener"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux" loading="lazy"></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section stats" id="projects">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            
+            <!-- Featured Project - Programs Website -->
+            <div class="featured-project fade-in">
+                <div class="featured-project-content">
+                    <div class="featured-project-icon">
+                        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="16 18 22 12 16 6"></polyline>
+                            <polyline points="8 6 2 12 8 18"></polyline>
+                        </svg>
+                    </div>
+                    <h3 class="featured-project-title">Programs Collection</h3>
+                    <p class="featured-project-description">
+                        This website hosts all the programs I have made. Explore my collection of programs, algorithms, and code snippets across multiple programming languages. 
+                        A growing repository of solutions, experiments, and learning projects.
+                    </p>
+                    <div class="featured-project-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">C/C++</span>
+                        <span class="tag">Java</span>
+                        <span class="tag">Algorithms</span>
+                        <span class="tag">DSA</span>
+                    </div>
+                    <a href="https://dibyajyotibiswal57.github.io/programs/" target="_blank" rel="noopener" class="featured-project-link">
+                        <span>Visit Programs Website</span>
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            
+            <h3 class="section-subtitle">GitHub Statistics</h3>
+            <div class="stats-grid">
+                <div class="stat-card fade-in">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=58a6ff&icon_color=2234ae&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages">
+                </div>
+            </div>
+            
+            <h3 class="section-subtitle">Contribution Graph</h3>
+            <div class="contribution-graph fade-in">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&theme=github-compact&hide_border=true&custom_title=My%20contributions%20graph&days=40" alt="Contribution Graph">
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section contact" id="contact">
+        <div class="container">
+            <h2 class="section-title">Connect With Me</h2>
+            <p class="contact-text">📫 Reach me at <strong>coder99957</strong> (Instagram, Twitter)</p>
+            <div class="social-links fade-in">
+                <a href="https://github.com/DibyajyotiBiswal57" target="_blank" rel="noopener" class="social-link" aria-label="GitHub">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                </a>
+                <a href="https://twitter.com/coder99957" target="_blank" rel="noopener" class="social-link" aria-label="Twitter">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+                    </svg>
+                </a>
+                <a href="https://youtube.com/coder99957" target="_blank" rel="noopener" class="social-link" aria-label="YouTube">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                    </svg>
+                </a>
+                <a href="https://leetcode.com/coder99957" target="_blank" rel="noopener" class="social-link" aria-label="LeetCode">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-2.365-1.914-6.255-1.675-8.436.572l-4.277 4.193a5.159 5.159 0 0 0-1.213 2.096 5.193 5.193 0 0 0-.12.493c-.011.043-.019.09-.024.136a7.03 7.03 0 0 0-.085 1.241 7.198 7.198 0 0 0 1.425 3.942l4.277 4.193c.05.049.101.097.153.145 2.936 2.817 7.704 2.676 10.438-.309l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-2.365-1.914-6.255-1.675-8.436.572z"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; <span id="year"></span> Dibyajyoti Biswal. All rights reserved.</p>
+            <p class="footer-tagline">Built with ❤️ and lots of coffee</p>
+        </div>
     </footer>
+
+    <!-- JavaScript -->
     <script src="script.js"></script>
 </body>
 </html>

@@ -11,14 +11,25 @@ const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 // Initialize theme
 if (savedTheme) {
     body.classList.toggle('dark-mode', savedTheme === 'dark');
+    body.classList.toggle('light-mode', savedTheme === 'light');
 } else if (prefersDark) {
     body.classList.add('dark-mode');
+} else {
+    body.classList.add('light-mode');
 }
 
 // Toggle theme on button click
 themeToggle.addEventListener('click', () => {
     body.classList.toggle('dark-mode');
     const isDark = body.classList.contains('dark-mode');
+    
+    // Also manage light-mode class to override prefers-color-scheme
+    if (isDark) {
+        body.classList.remove('light-mode');
+    } else {
+        body.classList.add('light-mode');
+    }
+    
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
     
     // Update quote image theme
@@ -106,7 +117,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // ============================================
-// Intersection Observer for Fade-in Animations
+// Intersection Observer for Fade-in Animations with Stagger
 // ============================================
 const observerOptions = {
     threshold: 0.1,
@@ -126,6 +137,16 @@ const observer = new IntersectionObserver((entries) => {
 // Observe all fade-in elements
 document.querySelectorAll('.fade-in').forEach(element => {
     observer.observe(element);
+});
+
+// Add stagger effect to about cards
+document.querySelectorAll('.about-grid .about-card').forEach((card, index) => {
+    card.style.setProperty('--index', index);
+});
+
+// Add stagger effect to skill items
+document.querySelectorAll('.skills-grid .skill-item').forEach((item, index) => {
+    item.style.setProperty('--index', index);
 });
 
 // ============================================
@@ -231,9 +252,49 @@ document.addEventListener('keydown', (e) => {
 });
 
 // ============================================
-// Add ripple effect to buttons
+// Preload critical resources
 // ============================================
-document.querySelectorAll('.btn').forEach(button => {
+// Preload GitHub avatar for favicon
+const avatarImg = new Image();
+avatarImg.src = 'https://github.com/DibyajyotiBiswal57.png';
+
+// ============================================
+// Mouse Tracking for Featured Projects
+// ============================================
+document.querySelectorAll('.featured-project').forEach(project => {
+    project.addEventListener('mousemove', (e) => {
+        const rect = project.getBoundingClientRect();
+        const x = ((e.clientX - rect.left) / rect.width) * 100;
+        const y = ((e.clientY - rect.top) / rect.height) * 100;
+        project.style.setProperty('--mouse-x', `${x}%`);
+        project.style.setProperty('--mouse-y', `${y}%`);
+    });
+});
+
+// Add ripple animation CSS
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes ripple {
+        to {
+            transform: scale(4);
+            opacity: 0;
+        }
+    }
+    .ripple-effect {
+        position: absolute;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.6);
+        transform: scale(0);
+        animation: ripple 0.6s ease-out;
+        pointer-events: none;
+    }
+`;
+document.head.appendChild(style);
+
+// ============================================
+// Enhanced Button Ripple Effect
+// ============================================
+document.querySelectorAll('.btn, .featured-project-link').forEach(button => {
     button.addEventListener('click', function(e) {
         const ripple = document.createElement('span');
         const rect = this.getBoundingClientRect();
@@ -241,10 +302,10 @@ document.querySelectorAll('.btn').forEach(button => {
         const x = e.clientX - rect.left - size / 2;
         const y = e.clientY - rect.top - size / 2;
         
+        ripple.className = 'ripple-effect';
         ripple.style.width = ripple.style.height = size + 'px';
         ripple.style.left = x + 'px';
         ripple.style.top = y + 'px';
-        ripple.classList.add('ripple');
         
         this.appendChild(ripple);
         
@@ -255,23 +316,26 @@ document.querySelectorAll('.btn').forEach(button => {
 });
 
 // ============================================
-// Preload critical resources
+// Parallax Effect for Cards on Mouse Move
 // ============================================
-function preloadImage(url) {
-    const img = new Image();
-    img.src = url;
-}
+const CARD_TILT_AMOUNT = 5; // degrees
+const CARD_LIFT = -10; // pixels
+const CARD_SCALE = 1.02;
 
-// Preload GitHub avatar for favicon
-preloadImage('https://github.com/DibyajyotiBiswal57.png');
-
-// ============================================
-// Preload critical resources
-// ============================================
-function preloadImage(url) {
-    const img = new Image();
-    img.src = url;
-}
-
-// Preload GitHub avatar for favicon
-preloadImage('https://github.com/DibyajyotiBiswal57.png');
+document.querySelectorAll('.about-card, .stat-card').forEach(card => {
+    card.addEventListener('mousemove', (e) => {
+        const rect = card.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        const centerX = rect.width / 2;
+        const centerY = rect.height / 2;
+        const deltaX = (x - centerX) / centerX;
+        const deltaY = (y - centerY) / centerY;
+        
+        card.style.transform = `translateY(${CARD_LIFT}px) scale(${CARD_SCALE}) rotateX(${deltaY * CARD_TILT_AMOUNT}deg) rotateY(${deltaX * CARD_TILT_AMOUNT}deg)`;
+    });
+    
+    card.addEventListener('mouseleave', () => {
+        card.style.transform = '';
+    });
+});

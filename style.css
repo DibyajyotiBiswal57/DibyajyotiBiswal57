@@ -15,17 +15,25 @@
     --shadow-sm: 0 1px 3px rgba(59, 130, 246, 0.1);
     --shadow-md: 0 4px 6px rgba(59, 130, 246, 0.15);
     --shadow-lg: 0 10px 20px rgba(59, 130, 246, 0.2);
+    --shadow-xl: 0 20px 40px rgba(59, 130, 246, 0.25);
     --nav-bg: rgba(255, 255, 255, 0.85);
     --gradient-start: #3b82f6;
     --gradient-end: #1d4ed8;
+    --gradient-accent: #60a5fa;
     
     /* Font Families */
     --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     --font-mono: 'Space Mono', 'Courier New', monospace;
     
-    /* Transitions */
-    --transition-base: 0.3s ease;
-    --transition-slow: 0.5s ease;
+    /* Transitions - Enhanced with cubic-bezier */
+    --transition-base: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    
+    /* Animation Durations */
+    --duration-fast: 200ms;
+    --duration-normal: 300ms;
+    --duration-slow: 500ms;
 }
 
 /* Dark Mode Colors - Blue Theme */
@@ -42,9 +50,11 @@ body.dark-mode {
     --shadow-sm: 0 1px 3px rgba(59, 130, 246, 0.3);
     --shadow-md: 0 4px 6px rgba(59, 130, 246, 0.4);
     --shadow-lg: 0 10px 20px rgba(59, 130, 246, 0.5);
+    --shadow-xl: 0 20px 40px rgba(59, 130, 246, 0.6);
     --nav-bg: rgba(15, 23, 42, 0.85);
     --gradient-start: #60a5fa;
     --gradient-end: #3b82f6;
+    --gradient-accent: #93c5fd;
 }
 
 /* ============================================
@@ -108,7 +118,7 @@ img {
     -webkit-backdrop-filter: blur(10px);
     z-index: 1000;
     box-shadow: var(--shadow-sm);
-    transition: background var(--transition-base);
+    transition: all var(--transition-base);
 }
 
 .nav-container {
@@ -125,11 +135,27 @@ img {
     font-weight: 700;
     font-family: var(--font-mono);
     color: var(--accent-primary);
-    transition: transform var(--transition-base);
+    transition: all var(--transition-base);
+    position: relative;
+}
+
+.nav-logo::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--accent-primary);
+    transition: width var(--transition-base);
 }
 
 .nav-logo:hover {
     transform: scale(1.1);
+}
+
+.nav-logo:hover::after {
+    width: 100%;
 }
 
 .nav-menu {
@@ -142,6 +168,7 @@ img {
     font-weight: 500;
     position: relative;
     transition: color var(--transition-base);
+    padding: 0.25rem 0;
 }
 
 .nav-link::after {
@@ -151,7 +178,7 @@ img {
     left: 0;
     width: 0;
     height: 2px;
-    background: var(--accent-primary);
+    background: linear-gradient(90deg, var(--gradient-start), var(--gradient-end));
     transition: width var(--transition-base);
 }
 
@@ -170,12 +197,28 @@ img {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    transition: transform var(--transition-base), background var(--transition-base);
+    transition: all var(--transition-bounce);
+    position: relative;
+    overflow: hidden;
+}
+
+.theme-toggle::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    opacity: 0;
+    transition: opacity var(--transition-base);
+    border-radius: 50%;
+}
+
+.theme-toggle:hover::before {
+    opacity: 1;
 }
 
 .theme-toggle:hover {
-    transform: rotate(20deg) scale(1.1);
-    background: var(--accent-primary);
+    transform: rotate(180deg) scale(1.15);
+    border-color: transparent;
 }
 
 .theme-toggle:hover svg {
@@ -185,7 +228,9 @@ img {
 .sun-icon,
 .moon-icon {
     color: var(--text-primary);
-    transition: opacity var(--transition-base);
+    transition: all var(--transition-base);
+    position: relative;
+    z-index: 1;
 }
 
 body.dark-mode .sun-icon {
@@ -226,27 +271,31 @@ body:not(.dark-mode) .moon-icon {
     background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
     opacity: 0.08;
     z-index: -1;
-    animation: gradientShift 10s ease infinite;
+    animation: gradientShift 15s ease-in-out infinite;
+    will-change: transform;
 }
 
 @keyframes gradientShift {
     0%, 100% {
-        transform: translateX(0) translateY(0);
+        transform: translateX(0) translateY(0) scale(1);
     }
-    50% {
-        transform: translateX(50px) translateY(50px);
+    33% {
+        transform: translateX(50px) translateY(30px) scale(1.05);
+    }
+    66% {
+        transform: translateX(-30px) translateY(50px) scale(1.02);
     }
 }
 
 .hero-content {
     text-align: center;
-    animation: fadeInUp 1s ease;
+    animation: fadeInUp 1s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 @keyframes fadeInUp {
     from {
         opacity: 0;
-        transform: translateY(30px);
+        transform: translateY(40px);
     }
     to {
         opacity: 1;
@@ -263,30 +312,41 @@ body:not(.dark-mode) .moon-icon {
 
 .wave {
     display: inline-block;
-    animation: wave 2s ease-in-out infinite;
+    animation: wave 2.5s ease-in-out infinite;
+    transform-origin: 70% 70%;
 }
 
 @keyframes wave {
     0%, 100% {
         transform: rotate(0deg);
     }
-    25% {
-        transform: rotate(20deg);
+    10%, 30% {
+        transform: rotate(14deg);
     }
-    75% {
-        transform: rotate(-15deg);
+    20% {
+        transform: rotate(-8deg);
+    }
+    40%, 60% {
+        transform: rotate(14deg);
+    }
+    50% {
+        transform: rotate(-8deg);
+    }
+    70%, 90% {
+        transform: rotate(0deg);
     }
 }
 
 .hero-name {
     font-size: 3.5rem;
     font-weight: 700;
-    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end), var(--gradient-accent));
+    background-size: 200% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     margin-bottom: 1.5rem;
-    animation: fadeIn 1s ease 0.2s backwards;
+    animation: fadeIn 1s ease 0.2s backwards, shimmer 3s ease-in-out infinite;
 }
 
 @keyframes fadeIn {
@@ -295,6 +355,15 @@ body:not(.dark-mode) .moon-icon {
     }
     to {
         opacity: 1;
+    }
+}
+
+@keyframes shimmer {
+    0%, 100% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
     }
 }
 
@@ -313,7 +382,7 @@ body:not(.dark-mode) .moon-icon {
 
 .cursor {
     display: inline-block;
-    animation: blink 1s infinite;
+    animation: blink 1s step-end infinite;
     font-weight: 700;
 }
 
@@ -328,13 +397,28 @@ body:not(.dark-mode) .moon-icon {
 
 .hero-quote {
     margin: 2rem 0;
-    animation: fadeIn 1s ease 0.6s backwards;
+    animation: fadeIn 1s ease 0.6s backwards, floatSoft 6s ease-in-out infinite;
+}
+
+@keyframes floatSoft {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
 }
 
 .quote-img {
     margin: 0 auto;
     border-radius: 10px;
     box-shadow: var(--shadow-md);
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.quote-img:hover {
+    transform: scale(1.02);
+    box-shadow: var(--shadow-lg);
 }
 
 .hero-buttons {
@@ -354,6 +438,7 @@ body:not(.dark-mode) .moon-icon {
     display: inline-block;
     position: relative;
     overflow: hidden;
+    z-index: 1;
 }
 
 .btn::before {
@@ -366,7 +451,8 @@ body:not(.dark-mode) .moon-icon {
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.3);
     transform: translate(-50%, -50%);
-    transition: width 0.6s, height 0.6s;
+    transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1), height 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
 }
 
 .btn:hover::before {
@@ -375,27 +461,29 @@ body:not(.dark-mode) .moon-icon {
 }
 
 .btn-primary {
-    background: var(--accent-primary);
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-hover));
     color: #ffffff;
     border: 2px solid var(--accent-primary);
+    box-shadow: var(--shadow-md);
 }
 
 .btn-primary:hover {
-    background: var(--accent-hover);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-lg);
+    background: linear-gradient(135deg, var(--accent-hover), var(--accent-primary));
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-xl);
 }
 
 .btn-secondary {
     background: transparent;
     color: var(--accent-primary);
     border: 2px solid var(--accent-primary);
+    box-shadow: var(--shadow-sm);
 }
 
 .btn-secondary:hover {
     background: var(--accent-primary);
     color: #ffffff;
-    transform: translateY(-2px);
+    transform: translateY(-3px);
     box-shadow: var(--shadow-lg);
 }
 
@@ -456,6 +544,8 @@ body:not(.dark-mode) .moon-icon {
     transition: all var(--transition-base);
     position: relative;
     overflow: hidden;
+    transform-style: preserve-3d;
+    perspective: 1000px;
 }
 
 .about-card::before {
@@ -467,16 +557,31 @@ body:not(.dark-mode) .moon-icon {
     height: 3px;
     background: linear-gradient(90deg, var(--gradient-start), var(--gradient-end));
     transform: scaleX(0);
+    transform-origin: left;
     transition: transform var(--transition-base);
+}
+
+.about-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, var(--gradient-start) 0%, transparent 50%, var(--gradient-end) 100%);
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+    z-index: -1;
 }
 
 .about-card:hover::before {
     transform: scaleX(1);
 }
 
+.about-card:hover::after {
+    opacity: 0.05;
+}
+
 .about-card:hover {
-    transform: translateY(-10px);
-    box-shadow: var(--shadow-lg);
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: var(--shadow-xl);
     border-color: var(--accent-primary);
 }
 
@@ -484,6 +589,11 @@ body:not(.dark-mode) .moon-icon {
     font-size: 3rem;
     margin-bottom: 1rem;
     animation: float 3s ease-in-out infinite;
+    transition: transform var(--transition-bounce);
+}
+
+.about-card:hover .card-icon {
+    transform: scale(1.2) rotate(5deg);
 }
 
 @keyframes float {
@@ -500,6 +610,11 @@ body:not(.dark-mode) .moon-icon {
     font-weight: 600;
     margin-bottom: 1rem;
     color: var(--text-primary);
+    transition: color var(--transition-base);
+}
+
+.about-card:hover h3 {
+    color: var(--accent-primary);
 }
 
 .about-card p {
@@ -522,18 +637,36 @@ body:not(.dark-mode) .moon-icon {
     align-items: center;
     justify-content: center;
     transition: transform var(--transition-base);
+    position: relative;
+}
+
+.skill-item::before {
+    content: '';
+    position: absolute;
+    inset: -10px;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    opacity: 0;
+    border-radius: 12px;
+    transition: opacity var(--transition-base);
+    z-index: -1;
+    filter: blur(20px);
+}
+
+.skill-item:hover::before {
+    opacity: 0.3;
 }
 
 .skill-item img {
     width: 60px;
     height: 60px;
-    transition: transform var(--transition-base);
+    transition: all var(--transition-bounce);
     filter: grayscale(0.2);
+    border-radius: 8px;
 }
 
 .skill-item:hover img {
-    transform: scale(1.2) rotate(5deg);
-    filter: grayscale(0);
+    transform: scale(1.25) rotate(5deg) translateY(-5px);
+    filter: grayscale(0) drop-shadow(0 10px 20px rgba(59, 130, 246, 0.3));
 }
 
 .os-grid {
@@ -545,12 +678,13 @@ body:not(.dark-mode) .moon-icon {
 }
 
 .os-grid img {
-    transition: transform var(--transition-base);
+    transition: all var(--transition-base);
     border-radius: 8px;
 }
 
 .os-grid img:hover {
-    transform: scale(1.1);
+    transform: scale(1.1) translateY(-5px);
+    box-shadow: var(--shadow-md);
 }
 
 /* ============================================
@@ -570,16 +704,41 @@ body:not(.dark-mode) .moon-icon {
     border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 1.5rem;
-    transition: transform var(--transition-base), box-shadow var(--transition-base);
+    transition: all var(--transition-base);
+    position: relative;
+    overflow: hidden;
+}
+
+.stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--gradient-start), var(--gradient-end));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--transition-base);
+}
+
+.stat-card:hover::before {
+    transform: scaleX(1);
 }
 
 .stat-card:hover {
-    transform: translateY(-5px);
-    box-shadow: var(--shadow-lg);
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: var(--shadow-xl);
+    border-color: var(--accent-primary);
 }
 
 .stat-card img {
     border-radius: 8px;
+    transition: transform var(--transition-base);
+}
+
+.stat-card:hover img {
+    transform: scale(1.05);
 }
 
 .contribution-graph {
@@ -591,6 +750,12 @@ body:not(.dark-mode) .moon-icon {
     margin: 0 auto;
     border-radius: 12px;
     box-shadow: var(--shadow-md);
+    transition: all var(--transition-base);
+}
+
+.contribution-graph img:hover {
+    transform: scale(1.02);
+    box-shadow: var(--shadow-xl);
 }
 
 /* ============================================
@@ -606,7 +771,7 @@ body:not(.dark-mode) .moon-icon {
     margin-bottom: 4rem;
     position: relative;
     overflow: hidden;
-    transition: all var(--transition-base);
+    transition: all var(--transition-slow);
 }
 
 .featured-project::before {
@@ -622,13 +787,27 @@ body:not(.dark-mode) .moon-icon {
     transition: transform var(--transition-slow);
 }
 
+.featured-project::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), var(--gradient-start) 0%, transparent 50%);
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+    pointer-events: none;
+}
+
 .featured-project:hover::before {
     transform: scaleX(1);
 }
 
+.featured-project:hover::after {
+    opacity: 0.05;
+}
+
 .featured-project:hover {
-    transform: translateY(-8px);
-    box-shadow: var(--shadow-lg);
+    transform: translateY(-8px) scale(1.01);
+    box-shadow: var(--shadow-xl);
     border-color: var(--accent-primary);
 }
 
@@ -641,6 +820,11 @@ body:not(.dark-mode) .moon-icon {
     margin-bottom: 1.5rem;
     color: var(--accent-primary);
     animation: float 3s ease-in-out infinite;
+    transition: all var(--transition-bounce);
+}
+
+.featured-project:hover .featured-project-icon {
+    transform: scale(1.15) rotate(5deg);
 }
 
 .featured-project-title {
@@ -648,9 +832,11 @@ body:not(.dark-mode) .moon-icon {
     font-weight: 700;
     margin-bottom: 1.5rem;
     background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    background-size: 200% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    animation: shimmer 3s ease-in-out infinite;
 }
 
 .featured-project-description {
@@ -679,13 +865,34 @@ body:not(.dark-mode) .moon-icon {
     font-size: 0.875rem;
     font-weight: 500;
     color: var(--accent-primary);
-    transition: all var(--transition-base);
+    transition: all var(--transition-bounce);
+    position: relative;
+    overflow: hidden;
+}
+
+.tag::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    opacity: 0;
+    transition: opacity var(--transition-base);
+}
+
+.tag:hover::before {
+    opacity: 1;
 }
 
 .tag:hover {
-    background: var(--accent-primary);
     color: #ffffff;
-    transform: translateY(-2px);
+    transform: translateY(-2px) scale(1.05);
+    border-color: transparent;
+    box-shadow: var(--shadow-md);
+}
+
+.tag span {
+    position: relative;
+    z-index: 1;
 }
 
 .featured-project-link {
@@ -693,7 +900,7 @@ body:not(.dark-mode) .moon-icon {
     align-items: center;
     gap: 0.5rem;
     padding: 1rem 2.5rem;
-    background: var(--accent-primary);
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-hover));
     color: #ffffff;
     border-radius: 8px;
     font-weight: 600;
@@ -701,6 +908,8 @@ body:not(.dark-mode) .moon-icon {
     transition: all var(--transition-base);
     position: relative;
     overflow: hidden;
+    z-index: 1;
+    box-shadow: var(--shadow-md);
 }
 
 .featured-project-link::before {
@@ -713,27 +922,28 @@ body:not(.dark-mode) .moon-icon {
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.3);
     transform: translate(-50%, -50%);
-    transition: width 0.6s, height 0.6s;
+    transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1), height 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
 }
 
 .featured-project-link:hover::before {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
 }
 
 .featured-project-link:hover {
-    background: var(--accent-hover);
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
+    background: linear-gradient(135deg, var(--accent-hover), var(--accent-primary));
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: var(--shadow-xl);
     color: #ffffff;
 }
 
 .featured-project-link svg {
-    transition: transform var(--transition-base);
+    transition: transform var(--transition-bounce);
 }
 
 .featured-project-link:hover svg {
-    transform: translateX(5px);
+    transform: translateX(8px);
 }
 
 /* Add responsive styles for featured project */
@@ -789,8 +999,9 @@ body:not(.dark-mode) .moon-icon {
     align-items: center;
     justify-content: center;
     color: var(--text-primary);
-    transition: all var(--transition-base);
+    transition: all var(--transition-bounce);
     position: relative;
+    overflow: visible;
 }
 
 .social-link::before {
@@ -804,19 +1015,39 @@ body:not(.dark-mode) .moon-icon {
     z-index: -1;
 }
 
+.social-link::after {
+    content: '';
+    position: absolute;
+    inset: -10px;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    border-radius: 50%;
+    opacity: 0;
+    filter: blur(20px);
+    transition: opacity var(--transition-base);
+    z-index: -2;
+}
+
 .social-link:hover::before {
     opacity: 1;
 }
 
+.social-link:hover::after {
+    opacity: 0.5;
+}
+
 .social-link:hover {
-    transform: translateY(-5px) scale(1.1);
+    transform: translateY(-8px) scale(1.15) rotate(5deg);
     color: #ffffff;
     border-color: transparent;
+    box-shadow: var(--shadow-xl);
 }
 
 .social-link svg {
     width: 32px;
     height: 32px;
+    transition: all var(--transition-base);
+    position: relative;
+    z-index: 1;
 }
 
 /* ============================================
@@ -844,13 +1075,35 @@ body:not(.dark-mode) .moon-icon {
    ============================================ */
 .fade-in {
     opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
+    transform: translateY(40px);
+    transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1), 
+                transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .fade-in.visible {
     opacity: 1;
     transform: translateY(0);
+}
+
+/* Stagger animation for grid children */
+.about-grid .about-card.fade-in {
+    transition-delay: calc(var(--index, 0) * 0.1s);
+}
+
+.skills-grid .skill-item {
+    animation: fadeInScale 0.6s cubic-bezier(0.4, 0, 0.2, 1) backwards;
+    animation-delay: calc(var(--index, 0) * 0.03s);
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
 }
 
 /* ============================================
@@ -969,8 +1222,64 @@ body:not(.dark-mode) .moon-icon {
         --shadow-sm: 0 1px 3px rgba(59, 130, 246, 0.3);
         --shadow-md: 0 4px 6px rgba(59, 130, 246, 0.4);
         --shadow-lg: 0 10px 20px rgba(59, 130, 246, 0.5);
+        --shadow-xl: 0 20px 40px rgba(59, 130, 246, 0.6);
         --nav-bg: rgba(15, 23, 42, 0.85);
         --gradient-start: #60a5fa;
         --gradient-end: #3b82f6;
+        --gradient-accent: #93c5fd;
     }
+}
+
+/* ============================================
+   Accessibility - Reduced Motion
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0s !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0s !important;
+        scroll-behavior: auto !important;
+    }
+    
+    .wave,
+    .card-icon,
+    .hero-background {
+        animation: none !important;
+    }
+}
+
+/* ============================================
+   Smooth Scrollbar
+   ============================================ */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--accent-primary);
+    border-radius: 6px;
+    border: 3px solid var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-hover);
+}
+
+/* ============================================
+   Selection Styling
+   ============================================ */
+::selection {
+    background: var(--accent-primary);
+    color: #ffffff;
+}
+
+::-moz-selection {
+    background: var(--accent-primary);
+    color: #ffffff;
 }

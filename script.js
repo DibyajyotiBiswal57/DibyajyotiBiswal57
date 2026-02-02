@@ -57,8 +57,10 @@ const phrases = [
     'A person who struggles with life.',
     'Learning Python, AI & ML',
     'Exploring Cybersecurity',
-    'Building cool projects',
-    'A passionate developer'
+    'Building innovative projects',
+    'Passionate about technology',
+    'Mastering DSA & Algorithms',
+    'Contributing to open-source'
 ];
 
 let phraseIndex = 0;

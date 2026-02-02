@@ -97,7 +97,7 @@
   </a>
 </p>
 
-## Stats -
-![Stats](./profile/stats.svg)
-
-<img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+## Stats
+<p align="center">
+  <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>

@@ -243,13 +243,9 @@ document.addEventListener('keydown', (e) => {
 // ============================================
 // Preload critical resources
 // ============================================
-function preloadImage(url) {
-    const img = new Image();
-    img.src = url;
-}
-
 // Preload GitHub avatar for favicon
-preloadImage('https://github.com/DibyajyotiBiswal57.png');
+const avatarImg = new Image();
+avatarImg.src = 'https://github.com/DibyajyotiBiswal57.png';
 
 // ============================================
 // Mouse Tracking for Featured Projects
@@ -264,15 +260,25 @@ document.querySelectorAll('.featured-project').forEach(project => {
     });
 });
 
-// ============================================
-// Smooth Reveal for Section Titles
-// ============================================
-document.querySelectorAll('.section-title').forEach(title => {
-    const text = title.textContent;
-    title.innerHTML = text.split('').map((char, i) => 
-        `<span style="display: inline-block; animation-delay: ${i * 0.05}s">${char === ' ' ? '&nbsp;' : char}</span>`
-    ).join('');
-});
+// Add ripple animation CSS
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes ripple {
+        to {
+            transform: scale(4);
+            opacity: 0;
+        }
+    }
+    .ripple-effect {
+        position: absolute;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.6);
+        transform: scale(0);
+        animation: ripple 0.6s ease-out;
+        pointer-events: none;
+    }
+`;
+document.head.appendChild(style);
 
 // ============================================
 // Enhanced Button Ripple Effect
@@ -285,18 +291,10 @@ document.querySelectorAll('.btn, .featured-project-link').forEach(button => {
         const x = e.clientX - rect.left - size / 2;
         const y = e.clientY - rect.top - size / 2;
         
-        ripple.style.cssText = `
-            width: ${size}px;
-            height: ${size}px;
-            left: ${x}px;
-            top: ${y}px;
-            position: absolute;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.6);
-            transform: scale(0);
-            animation: ripple 0.6s ease-out;
-            pointer-events: none;
-        `;
+        ripple.className = 'ripple-effect';
+        ripple.style.width = ripple.style.height = size + 'px';
+        ripple.style.left = x + 'px';
+        ripple.style.top = y + 'px';
         
         this.appendChild(ripple);
         
@@ -306,21 +304,13 @@ document.querySelectorAll('.btn, .featured-project-link').forEach(button => {
     });
 });
 
-// Add ripple animation CSS
-const style = document.createElement('style');
-style.textContent = `
-    @keyframes ripple {
-        to {
-            transform: scale(4);
-            opacity: 0;
-        }
-    }
-`;
-document.head.appendChild(style);
-
 // ============================================
 // Parallax Effect for Cards on Mouse Move
 // ============================================
+const CARD_TILT_AMOUNT = 5; // degrees
+const CARD_LIFT = -10; // pixels
+const CARD_SCALE = 1.02;
+
 document.querySelectorAll('.about-card, .stat-card').forEach(card => {
     card.addEventListener('mousemove', (e) => {
         const rect = card.getBoundingClientRect();
@@ -331,7 +321,7 @@ document.querySelectorAll('.about-card, .stat-card').forEach(card => {
         const deltaX = (x - centerX) / centerX;
         const deltaY = (y - centerY) / centerY;
         
-        card.style.transform = `translateY(-10px) scale(1.02) rotateX(${deltaY * 5}deg) rotateY(${deltaX * 5}deg)`;
+        card.style.transform = `translateY(${CARD_LIFT}px) scale(${CARD_SCALE}) rotateX(${deltaY * CARD_TILT_AMOUNT}deg) rotateY(${deltaX * CARD_TILT_AMOUNT}deg)`;
     });
     
     card.addEventListener('mouseleave', () => {

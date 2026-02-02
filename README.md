@@ -92,7 +92,7 @@
 
 ## Stats
 <p align="center">
-  <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/DibyajyotiBiswal57/DibyajyotiBiswal57/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <p align="center">

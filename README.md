@@ -83,9 +83,6 @@
   <a href="https://archlinux.org" target="blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg" />
   </a>
-  <a href="https://www.apple.com" target="blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />
-  </a>
   <a href="https://www.microsoft.com/windows" target="blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
   </a>

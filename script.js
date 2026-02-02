@@ -11,14 +11,25 @@ const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 // Initialize theme
 if (savedTheme) {
     body.classList.toggle('dark-mode', savedTheme === 'dark');
+    body.classList.toggle('light-mode', savedTheme === 'light');
 } else if (prefersDark) {
     body.classList.add('dark-mode');
+} else {
+    body.classList.add('light-mode');
 }
 
 // Toggle theme on button click
 themeToggle.addEventListener('click', () => {
     body.classList.toggle('dark-mode');
     const isDark = body.classList.contains('dark-mode');
+    
+    // Also manage light-mode class to override prefers-color-scheme
+    if (isDark) {
+        body.classList.remove('light-mode');
+    } else {
+        body.classList.add('light-mode');
+    }
+    
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
     
     // Update quote image theme

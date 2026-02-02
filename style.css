@@ -758,6 +758,27 @@ body:not(.dark-mode) .moon-icon {
     box-shadow: var(--shadow-xl);
 }
 
+/* 3D Contribution Graph */
+.contribution-3d {
+    margin-top: 2rem;
+    text-align: center;
+    position: relative;
+}
+
+.contribution-3d img {
+    margin: 0 auto;
+    border-radius: 16px;
+    box-shadow: var(--shadow-lg);
+    transition: all var(--transition-slow);
+    background: var(--bg-card);
+    padding: 1rem;
+}
+
+.contribution-3d img:hover {
+    transform: perspective(1000px) rotateY(2deg) rotateX(2deg) scale(1.03);
+    box-shadow: 0 25px 50px rgba(59, 130, 246, 0.35);
+}
+
 /* ============================================
    Featured Project Section
    ============================================ */

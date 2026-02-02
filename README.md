@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Dibyajyoti+Biswal" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">
@@ -66,7 +66,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=cyan&icon_color=2234AE&text_color=DCDCDC&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DibyajyotiBiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&show_icons=true&locale=en&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiBiswal57&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </p>
 
 ## Operating Systems Used

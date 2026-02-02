@@ -16,23 +16,31 @@
 
 ## About Me
 
-- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Fortran, Elixir, Scripting, Go, Haskell, C, C++, C#, Perl.**
+- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Rust, Fortran, Elixir, Scripting, Go, Haskell, C, C++, C#, Perl.**
 
-- 🔭 I'm currently working on **[ making code snippets ](https://github.com/DibyajyotiBiswal57/programs).**
+- 🔭 I'm currently working on **[ making code snippets ](https://github.com/DibyajyotiBiswal57/programs) and exploring cutting-edge technologies.**
 
--  👯 I'm looking to collaborate on **anything (give me ideas).**
+- 🎓 **High school student** passionate about mathematics, physics, and computer science.
 
-- 💬 Ask me about **Maths, Physics, Python. (I'm a high school student, pls be considerate)**
+- 💡 **Interests:** Algorithm optimization, machine learning applications, cybersecurity research, and open-source contributions.
+
+- 🎯 **Goals:** Building impactful projects, contributing to open-source, and continuous learning in tech.
+
+-  👯 I'm looking to collaborate on **innovative projects, open-source contributions, and learning opportunities (give me ideas!).**
+
+- 💬 Ask me about **Maths, Physics, Python, AI/ML, DSA. (I'm a high school student, pls be considerate)**
 
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/DibyajyotiBiswal57?tab=repositories).**
 
-- 👨‍💻 This is my **[website](https://dibyajyotibiswal57.github.io/DibyajyotiBiswal57).**
+- 🌐 Check out my **[portfolio website](https://dibyajyotibiswal57.github.io/DibyajyotiBiswal57)** and **[programs collection](https://dibyajyotibiswal57.github.io/programs/).**
 
-- 🤝 I'm looking for help with **living life. Pls help me.**
+- 🤝 I'm looking for help with **living life and time management. Pls help me.**
 
-- 📫 Reach out to me at **coder99957** (Instagram, Twitter).
+- 📫 Reach out to me at **coder99957** on various platforms (see Connect With Me section).
 
-- ⚡ Fun fact **I am not a fun person (sometimes 💢)**.
+- 🚀 **Currently exploring:** Advanced Python libraries, machine learning frameworks (PyTorch, TensorFlow), and cloud technologies.
+
+- ⚡ Fun fact: **I am not a fun person (sometimes 💢), but I love solving complex problems!**
 
 ## My Activity
 
@@ -43,47 +51,37 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DibyajyotiBiswal57" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/29881149/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29881149/coder99957" height="30" width="40" /></a>
-  <a href="https://kaggle.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="coder99957" height="30" width="40" /></a>
-  <a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder99957" height="30" width="40" /></a>
-  <a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>
-  <a href="https://youtube.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder99957" height="30" width="40" /></a>
-  <a href="https://leetcode.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder99957" height="30" width="40" /></a>
+  <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="DibyajyotiBiswal57" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/29881149/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29881149/coder99957" height="40" width="40" /></a>
+  <a href="https://kaggle.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://youtube.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtube/FF0000" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://leetcode.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://discord.com/users/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/dibyajyoti-biswal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dibyajyoti-biswal" height="40" width="40" /></a>
+  <a href="https://codepen.io/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="coder99957" height="40" width="40" /></a>
+  <a href="https://replit.com/@coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=replit" alt="coder99957" height="40" width="40" /></a>
+  <a href="mailto:coder99957@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="coder99957@gmail.com" height="40" width="40" /></a>
 </p>
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=elixir" alt="elixir" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=perl" alt="perl" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,docker,dotnet,elixir,git,go,haskell,html,java,js,linux,matlab,nodejs,perl,py,pytorch,react,replit,ruby,rust,sass,tensorflow,unity,vscode" alt="Skills" />
+</p>
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="opencv" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=blender" alt="blender" width="48" height="48"/>
 </p>
 
 ## Operating Systems Used
@@ -100,4 +98,8 @@
 ## Stats
 <p align="center">
   <img src="https://github.com/DibyajyotiBiswal57/DibyajyotiBiswal57/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&theme=github-compact&hide_border=true&custom_title=My%20contributions%20graph&days=60&area=true&radius=10" alt="Contribution Graph" />
 </p>

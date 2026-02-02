@@ -1,10 +1,12 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B+I'm+Dibyajyoti+Biswal" alt="Typing SVG" />
+  </a>
 </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+person+who+loves+coding+and+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=A+person+who+likes+coding.;A+person+who+struggles+with+life." alt="Typing SVG" />
   </a>
 </h3>
  
@@ -14,19 +16,23 @@
 
 ## About Me
 
-- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Rust, Go, Haskell, C, C++, C#, Perl**
+- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Fortran, Elixir, Scripting, Go, Haskell, C, C++, C#, Perl.**
 
-- 🔭 I'm currently making [programs](https://github.com/DibyajyotiBiswal57/programs)
+- 🔭 I'm currently working on **[ making code snippets ](https://github.com/DibyajyotiBiswal57/programs).**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
+-  👯 I'm looking to collaborate on **anything (give me ideas).**
 
-- 👯‍♂️ My friends are [Kshitij](https://github.com/UnderRatedCoder05), [Akshaj](https://github.com/Quantum404AK), and others
+- 💬 Ask me about **Maths, Physics, Python. (I'm a high school student, pls be considerate)**
 
-- 🤝 I'm looking for help with **living life**
+- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/DibyajyotiBiswal57?tab=repositories).**
 
-- 📫 Reach me at **coder99957** (Instagram, Twitter)
+- 👨‍💻 This is my **[website](https://dibyajyotibiswal57.github.io/DibyajyotiBiswal57).**
 
-- ⚡ Fun fact: **I am not a fun person**
+- 🤝 I'm looking for help with **living life. Pls help me.**
+
+- 📫 Reach out to me at **coder99957** (Instagram, Twitter).
+
+- ⚡ Fun fact **I am not a fun person (sometimes 💢)**.
 
 ## My Activity
 
@@ -37,44 +43,47 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://github.com/DibyajyotiBiswal57" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/coder99957" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/coder99957" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/coder99957" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DibyajyotiBiswal57" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/29881149/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29881149/coder99957" height="30" width="40" /></a>
+  <a href="https://kaggle.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="coder99957" height="30" width="40" /></a>
+  <a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder99957" height="30" width="40" /></a>
+  <a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>
+  <a href="https://youtube.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder99957" height="30" width="40" /></a>
+  <a href="https://leetcode.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder99957" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" width="40" height="40"/>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DibyajyotiBiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DibyajyotiBiswal57&show_icons=true&locale=en&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiBiswal57&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=elixir" alt="elixir" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=perl" alt="perl" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
 
 ## Operating Systems Used
@@ -87,3 +96,5 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
   </a>
 </p>
+
+

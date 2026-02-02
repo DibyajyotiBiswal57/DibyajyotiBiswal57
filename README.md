@@ -11,7 +11,7 @@
 
 - <p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
 
-- <p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/MrA-100">Akshaj</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
+- <p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/Quantum404AK">Akshaj</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
 
 - 🤝 I'm looking for help with **living life.**
 

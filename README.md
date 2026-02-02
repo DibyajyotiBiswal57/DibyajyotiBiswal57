@@ -42,11 +42,6 @@
 
 - ⚡ Fun fact: **I am not a fun person (sometimes 💢), but I love solving complex problems!**
 
-## My Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" />
-</p>
 
 ## Connect with me
 

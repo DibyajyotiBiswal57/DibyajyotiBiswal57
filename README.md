@@ -1,41 +1,86 @@
-<body>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyajyoti+Biswal" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+person+who+struggles+with+life." alt="Typing SVG" /></a></h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=500&color=387CF7&center=true&vCenter=true&width=570&lines=Hi+👋+I'm+Dibyajyoti+Biswal" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=500&color=30A5F7&center=true&vCenter=true&width=600&lines=A+person+who+loves+coding+and+learning" alt="Typing SVG" />
+  </a>
+</h3>
  
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" /></p>
-
-
-- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Rust, Go, Haskell, C, C++, C#, Perl.**
-
-- <p> 🔭 I’m currently making <a href="https://github.com/DibyajyotiBiswal57/programs">programs</a>. </p>
-
-- <p> 👨‍💻 All of my projects are available at <a href="https://github.com/DibyajyotiBiswal57?tab=repositories">my GitHub profile</a>. </p>
-
-- <p> 👯‍♂️ My friends are <a href="https://github.com/UnderRatedCoder05">Kshitij</a>, <a href="https://github.com/Quantum404AK">Akshaj</a>, <a href="https://github.com/albert-hawkins-heisenberg">Aryaman</a> and <a href="https://github.com/dsdoescreative">Diptansu</a>. </p>
-
-- 🤝 I'm looking for help with **living life.**
-
-- 📫 Reach me at **coder99957 (instagram, twitter)**
-
-- ⚡ Fun fact **I am not a fun person.**
-
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" /> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://github.com/DibyajyotiBiswal57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DibyajyotiBiswal57" height="30" width="40" /></a>
-<a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder99957" height="30" width="40" /></a>
-<a href="https://youtube.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder99957" height="30" width="40" /></a>
-<a href="https://leetcode.com/coder99957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder99957" height="30" width="40" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+## About Me
 
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/perl" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=perl" alt="perl" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+- 🌱 I'm currently learning **Python, AI & ML, Cybersecurity, DSA, Java, Rust, Go, Haskell, C, C++, C#, Perl**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=cyan&icon_color=2234AE&text_color=D3D3D3&bg_color=61,000000,20057A" alt="dibyajyotibiswal57" /></p>
+- 🔭 I'm currently making [programs](https://github.com/DibyajyotiBiswal57/programs)
 
-<h3 align="center"> Operating Systems used - </h3>
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/DibyajyotiBiswal57?tab=repositories)
 
-<p align="center"> <a href="https:/archlinux.org" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg" /> </a> <a href="https://www.apple.com" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" /> </a> <a href="https://www.linux.org" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" /> </a> <a href="https://tails.net" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg"/> </a> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"/> <a href="https://www.kali.org" > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" /></a> </p>
+- 👯‍♂️ My friends are [Kshitij](https://github.com/UnderRatedCoder05), [Akshaj](https://github.com/Quantum404AK), and others
+
+- 🤝 I'm looking for help with **living life**
+
+- 📫 Reach me at **coder99957** (Instagram, Twitter)
+
+- ⚡ Fun fact: **I am not a fun person**
+
+## My Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&theme=github&hide_border=true&custom_title=My%20contributions%20graph&days=40" />
+</p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://github.com/DibyajyotiBiswal57" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/coder99957" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/coder99957" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/coder99957" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" width="40" height="40"/>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyotibiswal57&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=cyan&icon_color=2234AE&text_color=DCDCDC&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+## Operating Systems Used
+
+<p align="center">
+  <a href="https://archlinux.org" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg" />
+  </a>
+  <a href="https://www.apple.com" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />
+  </a>
+  <a href="https://www.microsoft.com/windows" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
+  </a>
+</p>

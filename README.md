@@ -48,15 +48,10 @@
 <p align="center">
   <a href="https://github.com/DibyajyotiBiswal57" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="DibyajyotiBiswal57" height="40" width="40" /></a>
   <a href="https://stackoverflow.com/users/29881149/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29881149/coder99957" height="40" width="40" /></a>
-  <a href="https://kaggle.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="coder99957" height="40" width="40" /></a>
   <a href="https://instagram.com/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="coder99957" height="40" width="40" /></a>
   <a href="https://twitter.com/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="coder99957" height="40" width="40" /></a>
   <a href="https://youtube.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtube/FF0000" alt="coder99957" height="40" width="40" /></a>
   <a href="https://leetcode.com/coder99957" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="coder99957" height="40" width="40" /></a>
-  <a href="https://discord.com/users/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="coder99957" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/dibyajyoti-biswal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dibyajyoti-biswal" height="40" width="40" /></a>
-  <a href="https://codepen.io/coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="coder99957" height="40" width="40" /></a>
-  <a href="https://replit.com/@coder99957" target="blank"><img align="center" src="https://skillicons.dev/icons?i=replit" alt="coder99957" height="40" width="40" /></a>
   <a href="mailto:coder99957@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="coder99957@gmail.com" height="40" width="40" /></a>
 </p>
 

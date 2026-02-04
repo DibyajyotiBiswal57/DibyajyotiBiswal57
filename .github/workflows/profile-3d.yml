@@ -18,6 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Update README with timestamp
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i "s|profile-night-rainbow\.svg[^)\"]*|profile-night-rainbow.svg?t=$TIMESTAMP|g" README.md
       - name: Commit & Push
         run: |
           git config user.name github-actions

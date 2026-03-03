@@ -91,6 +91,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DibyajyotiBiswal57/github-stats-transparent/refs/heads/output/generated/languages.svg" /> <img src="https://raw.githubusercontent.com/DibyajyotiBiswal57/github-stats-transparent/refs/heads/output/generated/overview.svg" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DibyajyotiBiswal57&theme=github-compact&hide_border=true&custom_title=My%20contributions%20graph&days=60&area=true&radius=10" alt="Contribution Graph" />
 </p>
 <p align="center">

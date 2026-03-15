@@ -27,7 +27,49 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git pull --rebase origin main
-            git push
+          if ! git commit -m "generated"; then
+            echo "Nothing to commit, skipping push."
+            exit 0
+          fi
+
+          MAX_ATTEMPTS=3
+          ATTEMPT=0
+          SUCCESS=false
+
+          while [ $ATTEMPT -lt $MAX_ATTEMPTS ]; do
+            ATTEMPT=$((ATTEMPT + 1))
+            echo "Push attempt $ATTEMPT of $MAX_ATTEMPTS..."
+
+            if git pull --rebase origin main; then
+              echo "Rebase succeeded, attempting push..."
+              if git push; then
+                echo "Push succeeded on attempt $ATTEMPT."
+                SUCCESS=true
+                break
+              else
+                echo "Push failed after successful rebase on attempt $ATTEMPT."
+              fi
+            else
+              echo "Rebase conflict detected on attempt $ATTEMPT, aborting rebase..."
+              git rebase --abort || true
+              echo "Attempting force-with-lease push..."
+              if git push --force-with-lease=refs/heads/main:"$(git rev-parse origin/main)"; then
+                echo "Force-with-lease push succeeded on attempt $ATTEMPT."
+                SUCCESS=true
+                break
+              else
+                echo "Force-with-lease push failed on attempt $ATTEMPT."
+              fi
+            fi
+
+            if [ $ATTEMPT -lt $MAX_ATTEMPTS ]; then
+              WAIT=$((5 * (2 ** (ATTEMPT - 1))))
+              echo "Waiting ${WAIT}s before next attempt..."
+              sleep $WAIT
+            fi
+          done
+
+          if [ "$SUCCESS" != "true" ]; then
+            echo "All $MAX_ATTEMPTS push attempts failed."
+            exit 1
           fi

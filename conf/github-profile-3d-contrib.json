@@ -17,5 +17,5 @@
   ],
   "duration": "10s",
   "hueRatio": -7,
-  "ExcludeLanguages": ["HTML"]
+  "excludeLanguages": ["HTML"]
 }

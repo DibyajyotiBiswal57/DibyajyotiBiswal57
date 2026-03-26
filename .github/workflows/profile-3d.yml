@@ -18,6 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          HIDE_LANGS: true
       - name: Update README with timestamp
         run: |
           TIMESTAMP=$(date +%s)

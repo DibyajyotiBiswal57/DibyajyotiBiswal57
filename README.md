@@ -78,7 +78,7 @@
 
 ## Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DibyajyotiBiswal57/DibyajyotiBiswal57/main/profile-3d-contrib/profile-night-rainbow.svg?t=1775501867" />
+  <img src="https://raw.githubusercontent.com/DibyajyotiBiswal57/DibyajyotiBiswal57/main/profile-3d-contrib/profile-night-rainbow.svg?t=1775588497" />
 </p>
 
 <p align="center">
